@@ -114,13 +114,16 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramzansayyed790&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/ramzansayyed790">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+      alt="Random Developer Quote"
+    />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ramzansayyed790&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
