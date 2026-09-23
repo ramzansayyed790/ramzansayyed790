@@ -60,9 +60,7 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 
 ## 📊 GitHub Stats:
 
-   ## 📊 GitHub Analytics
-
-<p align="center">
+   <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzansayyed790&theme=tokyonight"
     width="48%"
@@ -104,7 +102,15 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 </p> 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <a href="https://github.com/ramzansayyed790">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=7"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
