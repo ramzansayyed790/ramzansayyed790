@@ -1,4 +1,4 @@
-## Hi👋 I'M MOHAMMED RAMZAN
+Hi, I'm Mohammed Ramzan👋
 A passionate SOFTWARE ENGINEERIN// Cloud ENGINEERING// Devolps ENGINEERING.
 MY Email (ramzansayyed790@gmail.com)
 (AI&ML) Collaboration project Mini Deep Learning 
