@@ -58,30 +58,50 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 
 
 
-# 📊 GitHub Stats:
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
+
+   ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ramzansayyed790&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzansayyed790&theme=tokyonight"
     width="48%"
-    alt="Mohammed Ramzan GitHub statistics"
+    alt="GitHub Statistics"
   />
-  
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzansayyed790&layout=compact&hide_border=true&theme=tokyonight"
-    width="40%"
-    alt="Mohammed Ramzan most used languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzansayyed790&theme=tokyonight"
+    width="48%"
+    alt="Repositories per Language"
   />
 </p>
 
 <p align="center">
+  <a href="https://github.com/ramzansayyed790">
+    <img
+      src="https://streak-stats.demolab.com/?user=ramzansayyed790&theme=tokyonight&hide_border=true&mode=weekly"
+      width="70%"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
+</p>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ramzansayyed790&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="Mohammed Ramzan GitHub contribution streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzansayyed790&theme=tokyonight"
+    width="94%"
+    alt="GitHub Profile Details"
   />
 </p>
+
+<p align="center">
+  <a href="https://github.com/ramzansayyed790">
+    <img
+      src="https://komarev.com/ghpvc/?username=ramzansayyed790&label=Profile%20Views&color=0e75b6&style=flat-square"
+      alt="Profile Views"
+    />
+  </a>
+</p> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
