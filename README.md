@@ -59,18 +59,25 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 
 
 # 📊 GitHub Stats:
-
 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramzansayyed790&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzansayyed790&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="41%" />
+  <a href="https://github.com/ramzansayyed790">
+    <img src="https://github-readme-stats.vercel.app/api?username=ramzansayyed790&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&custom_title=Mohammed%20Ramzan%20%E2%80%94%20GitHub%20Stats" width="48%" />
+  </a>
+  <a href="https://github.com/ramzansayyed790">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzansayyed790&layout=donut-vertical&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Tech%20Stack" width="40%" />
+  </a>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramzansayyed790&hide_border=true&theme=transparent" width="55%" />
+  <a href="https://github.com/ramzansayyed790">
+    <img src="https://streak-stats.demolab.com?user=ramzansayyed790&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
+  </a>
 </p><p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzansayyed790&theme=github_dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzansayyed790&theme=tokyonight" width="94%" />
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramzansayyed790&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/ramzansayyed790">
+    <img src="https://komarev.com/ghpvc/?username=ramzansayyed790&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
