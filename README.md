@@ -104,12 +104,11 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ramzansayyed790">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=7"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+    alt="GitHub Trophies"
+    width="900"
+  />
 </p>
 
 ### ✍️ Random Dev Quote
