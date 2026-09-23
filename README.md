@@ -104,9 +104,12 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ramzansayyed790)
-
+  <a href="https://github.com/ramzansayyed790">
+    <img
+      src="https://trophy.ryglcloud.net/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 
