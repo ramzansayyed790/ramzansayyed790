@@ -1,17 +1,22 @@
-Hi, I'm Mohammed Ramzan👋
-A passionate SOFTWARE ENGINEERIN// Cloud ENGINEERING// Devolps ENGINEERING.
-MY Email (ramzansayyed790@gmail.com)
-(AI&ML) Collaboration project Mini Deep Learning 
+## 👋 Introduction
 
+Hi, I'm **Mohammed Ramzan** 👋
 
-🔭 I’m currently working on : Python project 
- 🌱 I’m currently learning : Artificial intelligence & Machine learning
- 👯 I’m looking to collaborate on : Face mask Detection
- 🤔 I’m looking for help with : Mini Deep Learning 
- 💬 Ask me about : Collaboration,  artificial intelligence & machine learning
- 📫 How to reach me : ramzansayyed790@gmail.com
- 😄 Pronouns : Main 
-  
+I'm an **AI Engineer & B.Tech AI/ML student** with hands-on experience in **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, NLP, and Computer Vision**.
+
+I enjoy solving real-world problems by building **end-to-end AI systems** — from data preprocessing and model development to evaluation, API development, and deployment.
+
+🧠 **What I work with:**
+- Machine Learning & Deep Learning
+- LLMs, RAG & Generative AI
+- NLP & Computer Vision
+- Python, SQL & ML Frameworks
+- FastAPI & AI Application Development
+- Cloud, Git & Deployment
+
+🚀 I’m continuously building projects and strengthening my understanding of **production-ready AI engineering**.
+
+🎯 **Open to opportunities:** AI Engineer | ML Engineer | Generative AI Engineer | Junior AI/ML Engineer
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramzansayyed790) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ramzan-b813282a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramzansayyed790@gmail.com) 
 
