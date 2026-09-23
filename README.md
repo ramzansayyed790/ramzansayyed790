@@ -59,9 +59,19 @@ I enjoy solving real-world problems by building **end-to-end AI systems** — fr
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramzansayyed790&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramzansayyed790&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzansayyed790&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramzansayyed790&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzansayyed790&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="41%" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramzansayyed790&hide_border=true&theme=transparent" width="55%" />
+</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzansayyed790&theme=github_dark" width="95%" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramzansayyed790&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramzansayyed790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
