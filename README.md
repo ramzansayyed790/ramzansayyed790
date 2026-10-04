@@ -71,5 +71,64 @@
 
 **Always learning, always building.**
 
+</div> 
+
+<div align="center">
+
+<img src="./hero.svg?v=1" width="100%" />
+
+<br/>
+
+<img src="./about-life.svg?v=1" width="100%" />
+
+<br/>
+
+<img src="./stack.svg?v=1" width="100%" />
+
+<br/>
+
+<img src="./id-dashboard.svg?v=1" width="100%" />
+
 </div>
 
+## 🎌 Featured AI Builds
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 RAG Intelligence | Retrieval-Augmented Generation system | Python · LangChain · FAISS |
+| 🤖 AI Assistant | Context-aware conversational AI | Python · LLM · RAG |
+| 👁️ Vision Lab | Computer vision experiments | PyTorch · OpenCV |
+| 📊 ML Studio | Machine learning experiments | Scikit-learn · Pandas |
+| ⚡ AI API Engine | Production AI inference APIs | FastAPI · Docker · AWS |
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" />
+
+<br/>
+
+<img src="./connect.svg?v=1" width="100%" />
+
+<br/>
+
+<a href="https://github.com/ramzansayyed790">
+<img src="https://img.shields.io/badge/GitHub-0d0e16?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-ramzan-b813282a4">
+<img src="https://img.shields.io/badge/LinkedIn-0d0e16?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+</a>
+
+<a href="mailto:ramzansayyed790@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d0e16?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
+</a>
+
+<a href="https://instagram.com/ramzansayyed790">
+<img src="https://img.shields.io/badge/Instagram-0d0e16?style=for-the-badge&logo=instagram&logoColor=a78bfa"/>
+</a>
+
+<br/><br/>
+
+**BUILD → TRAIN → RETRIEVE → REASON → EVALUATE → DEPLOY**
+
+</div>
