@@ -1,129 +1,75 @@
-## 👋 Introduction
+ 
+  <div align="center">
 
-Hi, I'm **Mohammed Ramzan** 👋
+<img src="./hero.svg?v=2" width="100%" alt="Mohammed Ramzan — AI Engineer"/>
 
-I'm an **AI Engineer & B.Tech AI/ML student** with hands-on experience in **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, NLP, and Computer Vision**.
+<br/>
 
-I enjoy solving real-world problems by building **end-to-end AI systems** — from data preprocessing and model development to evaluation, API development, and deployment.
+<img src="./about-life.svg?v=2" width="100%" alt="About Mohammed Ramzan"/>
 
-🧠 **What I work with:**
-- Machine Learning & Deep Learning
-- LLMs, RAG & Generative AI
-- NLP & Computer Vision
-- Python, SQL & ML Frameworks
-- FastAPI & AI Application Development
-- Cloud, Git & Deployment
+<br/>
 
-🚀 I’m continuously building projects and strengthening my understanding of **production-ready AI engineering**.
+<img src="./stack.svg?v=2" width="100%" alt="AI Engineering Stack"/>
 
-🎯 **Open to opportunities:** AI Engineer | ML Engineer | Generative AI Engineer | Junior AI/ML Engineer
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramzansayyed790) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ramzan-b813282a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramzansayyed790@gmail.com) 
+<br/>
 
+<img src="./id-dashboard.svg?v=2" width="100%" alt="AI Engineer ID Dashboard"/>
 
-## 🛠️ Tech Stack
+</div>
 
-### 💻 Languages
+## 🎌 Featured AI Builds
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+| Project                 | Description                                                                         | Stack                            |
+| ----------------------- | ----------------------------------------------------------------------------------- | -------------------------------- |
+| 🧠 **RAG Intelligence** | Context-aware question answering with retrieval, embeddings and grounded generation | Python · LangChain · FAISS · LLM |
+| 🤖 **AI Assistant**     | Conversational AI with memory, tools and contextual reasoning                       | Python · LLM · RAG               |
+| 👁️ **Vision Lab**      | Computer vision experiments for image classification and understanding              | PyTorch · OpenCV · CNN           |
+| 📊 **ML Studio**        | Machine learning experiments, preprocessing and model evaluation                    | Python · Scikit-learn · Pandas   |
+| ⚡ **AI API Engine**     | Production-style inference APIs for deploying intelligent applications              | FastAPI · Docker · AWS           |
 
-### 🤖 AI / Machine Learning
+<br/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<div align="center">
 
-### 🧠 Generative AI
+<img src="./profile-3d-contrib/profile-night-view.svg?v=2"
+  width="100%"
+  alt="GitHub contribution city"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br/>
 
-`LLMs` · `RAG` · `Vector Databases` · `Prompt Engineering`
+<img src="./connect.svg?v=2"
+  width="100%"
+  alt="Connect with Mohammed Ramzan"/>
 
-### ⚙️ Backend & Deployment
+<br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://github.com/ramzansayyed790">
+<img src="https://img.shields.io/badge/GitHub-0d0e16?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohammed-ramzan-b813282a4">
+<img src="https://img.shields.io/badge/LinkedIn-0d0e16?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+</a>
+&nbsp;
+<a href="mailto:ramzansayyed790@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d0e16?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ramzansayyed790">
+<img src="https://img.shields.io/badge/Instagram-0d0e16?style=for-the-badge&logo=instagram&logoColor=a78bfa"/>
+</a>
 
-### ☁️ Cloud & Tools
+<br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=ramzansayyed790&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
 
+<br/><br/>
 
+`BUILD` → `TRAIN` → `RETRIEVE` → `REASON` → `EVALUATE` → `DEPLOY`
 
+<br/><br/>
 
-## 📊 GitHub Stats:
+**Always learning, always building.**
 
-   <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzansayyed790&theme=tokyonight"
-    width="48%"
-    alt="GitHub Statistics"
-  />
+</div>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzansayyed790&theme=tokyonight"
-    width="48%"
-    alt="Repositories per Language"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ramzansayyed790">
-    <img
-      src="https://streak-stats.demolab.com/?user=ramzansayyed790&theme=tokyonight&hide_border=true&mode=weekly"
-      width="70%"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzansayyed790&theme=tokyonight"
-    width="94%"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ramzansayyed790">
-    <img
-      src="https://komarev.com/ghpvc/?username=ramzansayyed790&label=Profile%20Views&color=0e75b6&style=flat-square"
-      alt="Profile Views"
-    />
-  </a>
-</p> 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ramzansayyed790">
-    <img
-      src="https://trophy.ryglcloud.net/?username=ramzansayyed790&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <a href="https://github.com/ramzansayyed790">
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-      alt="Random Developer Quote"
-    />
-  </a>
-</p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
